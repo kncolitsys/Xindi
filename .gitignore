@@ -1,0 +1,8 @@
+/*.project
+/*.xml
+/*.DS_Store
+/.idea/
+/.settings/
+/logs/hoth/exceptions/*.log
+/logs/hoth/incidents/*.log
+/framework/hoth/db/applications.hoth
